@@ -29,7 +29,7 @@ const upload = multer({ storage });
 // OpenRouter config
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
 const OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions";
-const MODEL = "anthropic/claude-3-5-sonnet";
+const MODEL = "gpt-4o-mini";
 
 // Convert file buffer to Base64 Data URL
 function fileBufferToBase64DataUrl(buffer, mimeType) {
