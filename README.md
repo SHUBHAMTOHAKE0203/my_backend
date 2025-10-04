@@ -1,4 +1,5 @@
 # ⚙️ Career Compass – Backend
+**IF YOU ARE NEW TO THE PLATFORM THEN DIRECTLY LOGIN VIA GOOGLE YOU'LL GET IT THROUGH ALL THE PROCESS OF SIGNUP**
 
 This is the backend server for the **Career Compass** project.
 It provides APIs for AI-powered career recommendations, job search, resume analysis, and integrates with external services like OpenRouter, Firebase, and SERP API.
